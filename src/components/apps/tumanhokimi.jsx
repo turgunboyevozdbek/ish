@@ -1,6 +1,6 @@
 import React from 'react';
-import './main.scss';
-function Main() {
+import '../styles/tumanhokimi.scss';
+function TumanH() {
     return (
         <>
         
@@ -8,4 +8,4 @@ function Main() {
     );
 }
 
-export default Main;
+export default TumanH;

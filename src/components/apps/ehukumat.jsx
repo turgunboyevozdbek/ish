@@ -1,6 +1,6 @@
 import React from 'react';
-import './main.scss';
-function Main() {
+import '../styles/ehukumat.scss';
+function EHukum() {
     return (
         <>
         
@@ -8,4 +8,4 @@ function Main() {
     );
 }
 
-export default Main;
+export default EHukum;
